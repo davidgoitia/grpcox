@@ -10,7 +10,7 @@ import (
 	"strings"
 
 	"github.com/gorilla/mux"
-	"github.com/gusaul/grpcox/core"
+	"github.com/davidgoitia/grpcox/core"
 )
 
 // Handler hold all handler methods
