@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 package_name=grpcox
-version=1.0.0
+version=1.1.0
 
 platforms=("windows/amd64" "windows/386" "darwin/amd64" "linux/amd64")
 mkdir -p dist/log

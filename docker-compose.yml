@@ -3,7 +3,7 @@ services:
   grpcox:
     build: .
     ports:
-      - "6969:6969"
+      - "6969:8777"
     volumes:
       - ./index:/index
       - ./log:/log

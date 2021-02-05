@@ -15,7 +15,7 @@ docker pull gusaul/grpcox:latest
 ```
 then run
 ```shell
-docker run -p 6969:6969 -v {ABSOLUTE_PATH_TO_LOG}/log:/log -d gusaul/grpcox
+docker run -p 6969:8777 -v {ABSOLUTE_PATH_TO_LOG}/log:/log -d gusaul/grpcox
 ```
 
 ### Docker Compose
